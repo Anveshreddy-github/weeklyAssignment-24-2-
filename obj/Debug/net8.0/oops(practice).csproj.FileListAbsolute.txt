@@ -1,0 +1,14 @@
+C:\Users\anves\source\repos\oops(practice)\obj\Debug\net8.0\oops(practice).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anves\source\repos\oops(practice)\obj\Debug\net8.0\oops(practice).AssemblyInfoInputs.cache
+C:\Users\anves\source\repos\oops(practice)\obj\Debug\net8.0\oops(practice).AssemblyInfo.cs
+C:\Users\anves\source\repos\oops(practice)\obj\Debug\net8.0\oops(practice).csproj.CoreCompileInputs.cache
+C:\Users\anves\source\repos\oops(practice)\bin\Debug\net8.0\oops(practice).exe
+C:\Users\anves\source\repos\oops(practice)\bin\Debug\net8.0\oops(practice).deps.json
+C:\Users\anves\source\repos\oops(practice)\bin\Debug\net8.0\oops(practice).runtimeconfig.json
+C:\Users\anves\source\repos\oops(practice)\bin\Debug\net8.0\oops(practice).dll
+C:\Users\anves\source\repos\oops(practice)\bin\Debug\net8.0\oops(practice).pdb
+C:\Users\anves\source\repos\oops(practice)\obj\Debug\net8.0\oops(practice).dll
+C:\Users\anves\source\repos\oops(practice)\obj\Debug\net8.0\refint\oops(practice).dll
+C:\Users\anves\source\repos\oops(practice)\obj\Debug\net8.0\oops(practice).pdb
+C:\Users\anves\source\repos\oops(practice)\obj\Debug\net8.0\oops(practice).genruntimeconfig.cache
+C:\Users\anves\source\repos\oops(practice)\obj\Debug\net8.0\ref\oops(practice).dll
